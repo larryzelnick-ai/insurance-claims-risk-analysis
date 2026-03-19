@@ -27,7 +27,11 @@ Younger policyholders tend to have higher average claim costs
 
 Claim frequency and severity vary significantly by age group
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
+
+[Click to view full image]
+
+[![Insurance Claims Dashboard](images/dashboard.png)](images/dashboard.png)
 
 📌 Business Value
 
