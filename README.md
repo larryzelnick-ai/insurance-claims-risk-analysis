@@ -29,9 +29,9 @@ Claim frequency and severity vary significantly by age group
 
 ## 📷 Dashboard Preview
 
-[Click to view full image]
+[![Insurance Claims Dashboard](images/dashboard.png)](https://public.tableau.com/app/profile/larry.zelnick/viz/InsuranceClaimsRiskAnalysisDashboard_17739569413630/Dashboard1?publish=yes)
 
-[![Insurance Claims Dashboard](images/dashboard.png)](images/dashboard.png)
+🔗 View interactive dashboard: https://public.tableau.com/app/profile/larry.zelnick/viz/InsuranceClaimsRiskAnalysisDashboard_17739569413630/Dashboard1?publish=yes
 
 📌 Business Value
 
